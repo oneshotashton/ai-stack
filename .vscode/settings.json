@@ -6,5 +6,9 @@
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": "explicit"
-  }
+  },
+  "autogitcommit.enable": true,
+  "autogitcommit.push": true,
+  "autogitcommit.commitMessage": "auto: save changes",
+  "autogitcommit.branch": "main"
 }
